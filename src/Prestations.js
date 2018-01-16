@@ -4,6 +4,7 @@ const Prestations = () => {
     return <div>
         <div style={{display: 'flex', justifyContent: 'center'}}>
             <div style={{width: '1024px', minWidth: '320px', padding: '10px'}}>
+                <h1 style={{textAlign: 'center'}}>Prestations</h1>
                 <div style={{marginBottom: '40px'}}>
                     <h3 style={{textDecoration: 'underline'}}>Simulation d'une heure</h3>
 
@@ -80,7 +81,7 @@ const Prestations = () => {
                 </div>
 
                 <div style={{marginBottom: '40px'}}>
-                    <h3 style={{textDecoration: 'underline'}}>Cours magistraux sur les techniques d’entretiens</h3>
+                    <h3 style={{textDecoration: 'underline'}}>Cours magistraux sur les techniques d’entretiens</h3>
                     <p>En construction</p>
                 </div>
 
