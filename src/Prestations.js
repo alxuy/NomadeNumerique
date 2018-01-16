@@ -11,11 +11,11 @@ const Prestations = () => {
                     <p>L’entretien d’embauche demeure la pierre angulaire du processus de recrutement. Premier véritable
                         contact avec l’entreprise, il permet au recruteur de jauger le potentiel et le professionnalisme
                         de
-                        chaque candidat. C’est pourquoi me semble utile d’en percer les secrets à l’aide d’une
+                        chaque candidat. C’est pourquoi il me semble utile d’en percer les secrets à l’aide d’une
                         simulation
-                        d’entretien: quoi de mieux pour démystifier l’entretien, comprendre l’objet de chaque questions
+                        d’entretien : quoi de mieux pour démystifier l’entretien, comprendre l’objet des questions
                         classiques et les préparer ?</p>
-                    <b>Au programme:</b>
+                    <b>Au programme :</b>
                     <p>
                         <ul>
                             <li>Diagnostic</li>
@@ -32,38 +32,38 @@ const Prestations = () => {
                 </div>
 
                 <div style={{marginBottom: '40px'}}>
-                    <h3 style={{textDecoration: 'underline'}}>Module de trois séances (diagnostic, forme, fonds)</h3>
-                    <p>La formation se déroule en module de trois séances de 1h30 chaque, espacées d’une semaine,
+                    <h3 style={{textDecoration: 'underline'}}>Module de trois séances (diagnostic, forme, fond)</h3>
+                    <p>La formation se déroule en module de trois séances de 1h30 espacées d’une semaine,
                         personnalisées, et adaptées à la demande particulière du candidat.</p>
-                    <b>Séance 1:</b>
+                    <b>Séance 1 :</b>
                     <p>
                         <ul>
                             <li>Diagnostic</li>
                             <li>Première simulation d’entretien</li>
-                            <li>Débrief sur principaux points d’amélioration</li>
-                            <li>Remise de fiche d’évaluation pour préparation de la séance suivante</li>
+                            <li>Débrief sur les principaux points d’amélioration</li>
+                            <li>Remise de fiche d’évaluation pour préparer la séance suivante</li>
                         </ul>
                     </p>
-                    <b>Séance 2:</b>
+                    <b>Séance 2 :</b>
                     <p>
                         <ul>
                             <li>Travail sur la forme de la présentation</li>
                             <li>Travail sur l’introduction de l’entretien</li>
                             <li>Travail sur la conclusion de l’entretien</li>
                             <li>Simulation d’entretien corrigée</li>
-                            <li>Debrief sur axes d’amélioration</li>
-                            <li>Remise de fiche d’évaluation pour préparation de la séance suivante</li>
+                            <li>Debrief sur les axes d’amélioration</li>
+                            <li>Remise de fiche d’évaluation pour préparer la séance suivante</li>
                         </ul>
                     </p>
-                    <b>Séance 3:</b>
+                    <b>Séance 3 :</b>
                     <p>
                         <ul>
                             <li>
-                                Travail sur le fonds de la présentation
+                                Travail sur le fond de la présentation
                                 <ol>
-                                    <li>Les questions récurrentes,</li>
-                                    <li>les questions piège,</li>
-                                    <li>les réponses et conduites à bannir.</li>
+                                    <li>Les questions récurrentes</li>
+                                    <li>Les questions piège</li>
+                                    <li>Les réponses et conduites à bannir</li>
                                 </ol>
                             </li>
                             <li>
@@ -81,7 +81,7 @@ const Prestations = () => {
                 </div>
 
                 <div style={{marginBottom: '40px'}}>
-                    <h3 style={{textDecoration: 'underline'}}>Cours magistraux sur les techniques d’entretiens</h3>
+                    <h3 style={{textDecoration: 'underline'}}>Cours magistraux sur les techniques d’entretien</h3>
                     <p>En construction</p>
                 </div>
 
