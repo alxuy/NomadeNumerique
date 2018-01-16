@@ -4,6 +4,7 @@ import Menu from './Menu';
 import {BrowserRouter, Route} from 'react-router-dom';
 import Accueil from './Accueil';
 import Prestations from './Prestations';
+import Footer from './Footer';
 
 class App extends Component {
     render() {
@@ -15,7 +16,7 @@ class App extends Component {
                         <Route exact path="/" component={Accueil}/>
                         <Route path="/prestations" component={Prestations}/>
                     </main>
-                    <footer>test</footer>
+                    <Footer/>
                 </div>
             </BrowserRouter>
         );

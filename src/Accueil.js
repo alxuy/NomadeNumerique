@@ -38,7 +38,7 @@ const Accueil = () => {
             </div>
         </div>
         <div style={{display: 'flex', justifyContent: 'center'}}>
-            <div style={{width: '1024px', minWidth: '320px'}}>
+            <div style={{width: '1024px', minWidth: '320px', padding: '10px'}}>
                 <h3>Ne laissez pas de place au hasard. Mettez toutes les chances de votre côté.</h3>
 
                 <b>Présentation du coach :</b>
