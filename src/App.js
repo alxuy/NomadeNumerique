@@ -6,6 +6,7 @@ import Accueil from './Accueil';
 import Prestations from './Prestations';
 import Footer from './Footer';
 import Contact from './Contact';
+import Actualites from './Actualites';
 
 class App extends Component {
     render() {
@@ -17,6 +18,7 @@ class App extends Component {
                         <Route exact path="/" component={Accueil}/>
                         <Route path="/prestations" component={Prestations}/>
                         <Route path="/contact" component={Contact}/>
+                        <Route path="/actualites" component={Actualites}/>
                     </main>
                     <Footer/>
                 </div>
