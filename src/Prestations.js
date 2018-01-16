@@ -27,6 +27,7 @@ const Prestations = () => {
                             <li>Debrief final</li>
                         </ul>
                     </p>
+                    <span style={{textDecoration: 'underline'}}><b><i>Tarif: 80 euros la séance</i></b></span>
                 </div>
 
                 <div style={{marginBottom: '40px'}}>
@@ -75,6 +76,7 @@ const Prestations = () => {
                             <li>Debrief final</li>
                         </ul>
                     </p>
+                    <span style={{textDecoration: 'underline'}}><b><i>Tarif: 220 euros le module</i></b></span>
                 </div>
 
                 <div style={{marginBottom: '40px'}}>
