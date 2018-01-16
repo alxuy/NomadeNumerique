@@ -9,10 +9,13 @@ class App extends Component {
     render() {
         return (
             <BrowserRouter>
-                <div>
-                    <Menu/>
-                    <Route exact path="/" component={Accueil}/>
-                    <Route path="/prestations" component={Prestations}/>
+                <div style={{display: 'flex', minHeight: '100vh', flexDirection: 'column'}}>
+                    <main style={{flex: 1}}>
+                        <Menu/>
+                        <Route exact path="/" component={Accueil}/>
+                        <Route path="/prestations" component={Prestations}/>
+                    </main>
+                    <footer>test</footer>
                 </div>
             </BrowserRouter>
         );
