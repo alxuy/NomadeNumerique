@@ -11,7 +11,7 @@ import Actualites from './Actualites';
 class App extends Component {
     render() {
         return (
-            <BrowserRouter>
+            <BrowserRouter basename="/nomade">
                 <div style={{display: 'flex', minHeight: '100vh', flexDirection: 'column'}}>
                     <main style={{flex: 1}}>
                         <Menu/>
